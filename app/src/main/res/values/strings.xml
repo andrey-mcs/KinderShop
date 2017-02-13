@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kindershop</string>
+    <string name="app_name3">Kindershop</string>
+    <string name="name_login">Логин</string>
+    <string name="pass_login">Пароль</string>
+    <string name="button_login">Войти</string>
+    <string name="url_kms">/export/kms.php</string>
+    <string name="url_base">http://kindershop.com.ua</string>
+    <string name="login">Login</string>
+    <string name="logout">Выйти</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
